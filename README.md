@@ -8,4 +8,4 @@ If you have any problems regarding the code and data, please let me know through
 # Rebuttal
 
 1. Please see the document Revision for the revised version of the paper and the supplemental theoretical results in Section 4.
-2. The code for reproducing the results in rebuttal is provided in directory __NETC_github_upload/Rebuttal_code__.
+2. The code for reproducing the results in rebuttal is provided in directory __NETC_github_upload/Rebuttal_code__, and the repo https://github.com/jingddong-zhang/Rebuttal_Neural-ETC
